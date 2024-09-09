@@ -1,6 +1,4 @@
-Here's a more friendly and approachable version of your **`README.md`**:
 
----
 
 # Task Management System 
 
