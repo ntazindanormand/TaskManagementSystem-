@@ -6,7 +6,7 @@ Here's a more friendly and approachable version of your **`README.md`**:
 
 Welcome to the Task Management System! This is a simple and powerful tool designed to help you stay organized by managing your tasks efficiently. You can create, edit, delete, and filter tasks with ease, keeping track of what's important. Let's dive in!
 
-## 🌟 Features
+##  Features
 
 ### Core Features:
 1. **Create New Tasks** 
@@ -60,20 +60,20 @@ All you need is a modern web browser (like Google Chrome, Firefox, or Safari).
 
 ---
 
-## ⚠️ Known Limitations & Future Improvements
+##  Known Limitations & Future Improvements
 
 ### Current Limitations:
-1. **User Authentication** 🚫  
+1. **User Authentication**  
    Right now, there’s no login system, so anyone using the browser can access the tasks. A login system would make this more personal and secure.
 
-2. **Data Stored Locally** 🖥️  
+2. **Data Stored Locally**  
    Tasks are stored in your browser's local storage, so if you switch devices or clear the browser data, your tasks will be lost. A database would solve this!
 
 ### Future improvements:
-1. **User Accounts & Authentication** 🔐  
+1. **User Accounts & Authentication** 
    We could add login functionality so each user has their own tasks.
 
-2. **Cloud Storage** ☁️  
+2. **Cloud Storage**  
    Imagine saving your tasks to the cloud so you can access them from anywhere—this would be possible with a backend database (like SQLite or MongoDB).
 
 3. **Task Prioritization** 
